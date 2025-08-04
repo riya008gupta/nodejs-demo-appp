@@ -1,7 +1,4 @@
-# nodejs-demo-appp
-
-
-# Node.js Demo App
+# nodejs-demo-app
 
 This is a simple Node.js web application built to demonstrate basic **CI/CD pipeline** integration and Docker containerization.
 
